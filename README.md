@@ -30,9 +30,11 @@ python 3
 pip3
 ```
 
-##### Setup to run
+##### Publication
 
-+ This is a Research Based Project, Completed at [CDAC-Banaglore](https://www.cdac.in/index.aspx?id=bangalore)
++ This is a Research Based Project, Completed at [CDAC-Banaglore](https://www.cdac.in/index.aspx?id=bangalore) and **In the 7th International Conference on Big Data Analytics, BDA 2019, at Ahmedabad, India on December 17–20, 2019, the research paper has been published with the title "Market Intelligence for Agricultural Commodities Using Forecasting and Deep Learning Techniques."** [Springer-Link](https://link.springer.com/chapter/10.1007/978-3-030-37188-3_12)
+
+
 Thank you for visiting.
 
 Don't forget to give a star!!
